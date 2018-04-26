@@ -24,14 +24,16 @@ Being able to measure the impact of your projects is crucial. Part of this is do
 Feel free to explore this two different versions:
 
 [Baseline_v1_3_0](docs/CC_Baseline_v1_3_0_ENG-KISW.xls)
+
 [Baseline_v1_4_6](docs/CC_Baseline_v1_4_6.xls.xlsx)
 
 
 
 ## Training Materials
 
-Being clear about what you're doing is vital. Here you will find helpfull resources to 
+Being clear about what you're doing is vital. Here you will find helpful resources to be able to explain the project to the potential users and people in general.
+
+Take a look at our [Sarafu Credit User Guide](docs/Sarafu-Credit-User-Guide-English-v6.0.pdf) , a small [quiz](docs/sc-quiz-v6.1-30th-Oct-2017.pdf) on said guide and a simple [game](docs/sc-game-v1.1-30th-Oct-2017.pdf) to simulate how a community currency works and discuss issues surrounding them.
 
 presentations
-games
-quices
+
