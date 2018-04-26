@@ -1,7 +1,7 @@
 # How To Paper Currencies
 This repository holds all of the documents that will help you plan for the future implementation of your community currency project. 
 
-It acts as a support for the GrassrootsEconomics MOOC that we are hosting on our website. If you have not seen this material take a click [here](https://www.grassrootseconomics.org/mooc) to check it out. If you come from there, welcome!
+It acts as a support for the GrassrootsEconomics MOOC that we are hosting on our website. If you have not seen this material click [here](https://www.grassrootseconomics.org/mooc) to check it out. If you come from there, welcome!
 
 We will cover the following topics:
 
