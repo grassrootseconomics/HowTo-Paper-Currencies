@@ -21,7 +21,12 @@ Schedule, Budget
 
 Being able to measure the impact of your projects is crucial. Part of this is done through baseline and inline surveys. They have changed a lot through out the years and will probably continue to do so. Our latest version has been made to try to capture the essential information without them being too long. We advice you take them as a starting reference point but by all means do adapt them to the needs and circunstances of the community you're planning to work with. 
 
-odk
+Feel free to explore this two different versions:
+
+[Baseline_v1_3_0](docs/CC_Baseline_v1_3_0_ENG-KISW.xls)
+[Baseline_v1_4_6](docs/CC_Baseline_v1_4_6.xls.xlsx)
+
+
 
 ## Training Materials
 
