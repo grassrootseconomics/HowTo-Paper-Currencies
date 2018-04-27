@@ -15,7 +15,8 @@ Eventhough we are dividing the information into these three categories, bare in 
 
 The most important thing for a succesful implementation of a community currency (and any project in general) is good planning. We suggest you devote lots of time and energy to this before jumping into this huge task. 
 
-Schedule, Budget
+Example documents: Logframe, Schedule, Budget, [Issuance Policy](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC%20Issuance%20Policy%20v1.0.1.pdf)
+
 
 ## Data Collection
 
@@ -27,6 +28,7 @@ Feel free to explore this two different versions:
 
 [Baseline_v1_4_6](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC_Baseline_v1_4_6.xls.xlsx)
 
+For an idea of individual membership application documents click [here](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/SARAFU-membership-Application-en%20-%20Sheet1.pdf) and for group application [here](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/SARAFU-chama-Application-en%20-%20Sheet1.pdf).
 
 
 ## Training Materials
@@ -35,5 +37,4 @@ Being clear about what you're doing is vital. Here you will find helpful resourc
 
 Take a look at our [Sarafu Credit User Guide](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/Sarafu-Credit-User-Guide-English-v6.0.pdf) , a small [quiz](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/sc-quiz-v6.1-30th-Oct-2017.pdf) on said guide and a simple [game](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/sc-game-v1.1-30th-Oct-2017.pdf) to simulate how a community currency works and discuss issues surrounding them.
 
-presentations
 
