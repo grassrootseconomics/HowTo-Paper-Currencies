@@ -25,7 +25,7 @@ Feel free to explore this two different versions:
 
 [Baseline_v1_3_0](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC_Baseline_v1_3_0_ENG-KISW.xls)
 
-[Baseline_v1_4_6](docs/CC_Baseline_v1_4_6.xls.xlsx)
+[Baseline_v1_4_6](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC_Baseline_v1_4_6.xls.xlsx)
 
 
 
@@ -33,7 +33,7 @@ Feel free to explore this two different versions:
 
 Being clear about what you're doing is vital. Here you will find helpful resources to be able to explain the project to the potential users and people in general.
 
-Take a look at our [Sarafu Credit User Guide](HowTo-Paper-Currencies/Sarafu-Credit-User-Guide-English-v6.0.pdf) , a small [quiz](docs/sc-quiz-v6.1-30th-Oct-2017.pdf) on said guide and a simple [game](docs/sc-game-v1.1-30th-Oct-2017.pdf) to simulate how a community currency works and discuss issues surrounding them.
+Take a look at our [Sarafu Credit User Guide](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/Sarafu-Credit-User-Guide-English-v6.0.pdf) , a small [quiz](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/sc-quiz-v6.1-30th-Oct-2017.pdf) on said guide and a simple [game](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/sc-game-v1.1-30th-Oct-2017.pdf) to simulate how a community currency works and discuss issues surrounding them.
 
 presentations
 
