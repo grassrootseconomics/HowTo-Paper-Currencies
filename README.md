@@ -23,7 +23,7 @@ Being able to measure the impact of your projects is crucial. Part of this is do
 
 Feel free to explore this two different versions:
 
-[Baseline_v1_3_0](docs/CC_Baseline_v1_3_0_ENG-KISW.xls)
+[Baseline_v1_3_0](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC_Baseline_v1_3_0_ENG-KISW.xls)
 
 [Baseline_v1_4_6](docs/CC_Baseline_v1_4_6.xls.xlsx)
 
