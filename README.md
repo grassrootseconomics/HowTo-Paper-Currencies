@@ -15,7 +15,9 @@ Eventhough we are dividing the information into these three categories, bare in 
 
 The most important thing for a succesful implementation of a community currency (and any project in general) is good planning. We suggest you devote lots of time and energy to this before jumping into this huge task. 
 
-Example documents: Logframe, Schedule, Budget, [Issuance Policy](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC%20Issuance%20Policy%20v1.0.1.pdf)
+In the attatched documents you will find our guidelines and a basic idea of schedules and budgets. Bare in mind that we've grown into a small organization and are now able to have permanent staff on board. So use the documents as a reference point but don't limit yourself to them in any way. Lots can be done with way less (and of course also with more) "money". 
+
+Example documents: [Logframe /Schedule /Budget](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/Logframe%20Community-Currency.xlsx), [Issuance Policy](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/CC%20Issuance%20Policy%20v1.0.1.pdf)
 
 
 ## Data Collection
