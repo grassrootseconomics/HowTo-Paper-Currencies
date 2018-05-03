@@ -39,4 +39,10 @@ Being clear about what you're doing is vital. Here you will find helpful resourc
 
 Take a look at our [Sarafu Credit User Guide](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/Sarafu-Credit-User-Guide-English-v6.0.pdf) , a small [quiz](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/sc-quiz-v6.1-30th-Oct-2017.pdf) on said guide and a simple [game](https://github.com/GrassrootsEconomics/HowTo-Paper-Currencies/blob/master/sc-game-v1.1-30th-Oct-2017.pdf) to simulate how a community currency works and discuss issues surrounding them.
 
+## Additional Resources
+
+Our [wikipedia page](https://en.wikipedia.org/wiki/Sarafu-Credit) on Sarafu-Credit could also come in handy.
+
+[Wiki](https://wiki.p2pfoundation.net/index.php?title=Certificate_Course_in_Community_Currencies_for_Grassroots_Development&action=submit) on the p2pFoundation website.
+
 
